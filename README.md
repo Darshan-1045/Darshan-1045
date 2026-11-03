@@ -1,18 +1,148 @@
-# 💫 About Me:
-I am Darshan. I recently completed my B.Tech in Electronics and Communication Engineering from University Visvesvaraya College of Engineering (UVCE), Bengaluru, with a CGPA of 8.4.<br><br>I have a good understanding of C, C++, Python, Data Structures and Algorithms, and Object-Oriented Programming. I am also interested in software development and have worked on projects involving React.js, Node.js, and FastAPI.<br><br>I consider myself a quick learner, adaptable, and a good team player. I am looking forward to starting my professional career, learning from experienced people, and contributing my technical skills to the organization.
+# Hey, I'm Darshan P. 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;ECE+Graduate)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshan-prakasha/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Darshan P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshandarshanp10@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Darshan-1045&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Darshan-1045&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Darshan-1045&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Darshan-1045&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Computer Science enthusiast and Electronics & Communication Engineering graduate** from University Visvesvaraya College of Engineering (UVCE), Bengaluru.
+
+I enjoy transforming ideas into practical applications, solving challenging problems, and exploring technologies that make software more useful and efficient.
+
+- 🎓 B.Tech in Electronics & Communication Engineering – UVCE, Bengaluru
+- 💻 Interested in **Full-Stack Development & Software Engineering**
+- 🔭 Building web applications and AI-powered projects
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🌱 Exploring Backend Development, System Design & AI Integration
+- ⚡ Believe in learning by building and improving every day
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+### Frontend Development
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
+
+### Backend & Database
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+### Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌦️ Real-Time Weather & Crypto Dashboard
+
+A dashboard that provides real-time weather information and cryptocurrency market insights through API integration.
+
+**Tech:** React.js • JavaScript • REST APIs • Chart.js
+
+### 🎬 CineScope – Movie Discovery App
+
+A movie discovery application featuring search, genre-based browsing, movie details, and a persistent watchlist.
+
+**Tech:** React • TypeScript • TanStack Query • Zustand • Tailwind CSS
+
+### 🏡 Airbnb Clone Web Application
+
+A full-stack accommodation listing application with dynamic property listings and backend integration.
+
+**Tech:** Node.js • Express.js • MongoDB • EJS
+
+### 🔥 IoT Wireless Fire Alarm System
+
+An IoT-based project designed to detect fire conditions and provide alerts using sensors and wireless communication.
+
+**Tech:** Embedded Systems • Sensors • IoT
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer Intern – Pratinik Info Tech**
+
+- Worked on developing a MERN-stack e-commerce application.
+- Contributed to frontend and backend development.
+- Gained practical experience in building full-stack applications.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🧩 Currently Learning & Improving
+
+| Area | Focus |
+|---|---|
+| DSA | Problem Solving |
+| Full-Stack Development | Building Applications |
+| Backend Development | APIs & Database Design |
+| AI Integration | LLM-powered Applications |
+| System Design | Scalable Architecture |
+| Cloud & DevOps | Deployment & Docker |
+
+---
+
+## 🎯 My Goal
+
+> Build meaningful software, solve real-world problems, and continuously grow as a Software Engineer.
+
+### Let's connect and build something amazing! 🚀
