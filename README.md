@@ -1,7 +1,10 @@
 <h1 align="center"> Hey, I'm Darshan P. 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Engineer;Problem+Solver;C%2B%2B+%26+Python+Developer;Building+Real+World+Applications)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Engineer;Problem+Solver;C%2B%2B+%26+Python+Developer;Building+Real+World+Applications" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/Darshan-1045">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
