@@ -2,7 +2,7 @@
 My name is Darshan. I recently completed my B.Tech in Electronics and Communication Engineering from UVCE, Bengaluru, with an 8.55 CGPA. I have knowledge of C, C++, Python, and Data Structures and Algorithms. I am a quick learner, passionate about technology, and always interested in learning new things. I am looking forward to starting my career and contributing to the organization.
 
 
-## 🌐 Socials:# Hey, I'm Darshan P. 👋
+## 🌐  Hey, I'm Darshan P. 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Engineer;Problem+Solver;C%2B%2B+%26+Python+Developer;Building+Real+World+Applications)](https://git.io/typing-svg)
 
